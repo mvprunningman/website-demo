@@ -2,10 +2,9 @@
   <div>
     <div class="topBar">
       <p>
-        <strong>Cyber Monday Sale ending</strong>| Stock up on courses from just
-        $9.99 while you still can.
+        <strong>Ready to get with the times?</strong>| Get the skills with Udemy
+        Business.
       </p>
-      <p style="font-size: 18px; font-weight: 800">{{ countdownDisplay }}</p>
     </div>
     <div class="header-container">
       <div style="font-size: 20px; font-weight: 800">Udemy</div>
@@ -84,7 +83,8 @@
         <div class="app-info">Last updated 2024/11 Italian Italian [Auto]</div>
       </div>
       <div class="right">
-        <div class="video">video</div>
+        <!-- <div class="video">video</div> -->
+        <img class="video" src="/public/jia.jpg" alt="" />
         <div class="content">
           <div class="price">
             <div class="title-h1">$9.99</div>
@@ -263,6 +263,156 @@
         </a>
         <div class="also-bought">
           <div class="title-h1">Students also bought</div>
+        </div>
+        <div class="lesson">
+          <div class="course-list">
+            <h2>Students also bought</h2>
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/50x50/380970_b5b4_42.jpg"
+                alt="Course Image"
+              />
+              <div class="course-info">
+                <div
+                  style="
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                  "
+                >
+                  <div class="course-title" style="width: 60%">
+                    Crypto Condensed: The Complete Guide To Bitcoin
+                  </div>
+                  <div class="course-rating">4.3 ★</div>
+                  <div>31,230</div>
+                  <div>
+                    <div class="course-current-price">$9.99</div>
+                    <div class="course-price">$59.99</div>
+                  </div>
+                </div>
+                <div style="display: flex; gap: 10px">
+                  <div class="course-premium">Premium</div>
+                  <div>7 total hours -- Updated 2/2024</div>
+                </div>
+              </div>
+            </div>
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/50x50/380970_b5b4_42.jpg"
+                alt="Course Image"
+              />
+              <div class="course-info">
+                <div
+                  style="
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                  "
+                >
+                  <div class="course-title" style="width: 60%">
+                    Crypto Condensed: The Complete Guide To Bitcoin
+                  </div>
+                  <div class="course-rating">4.3 ★</div>
+                  <div>31,230</div>
+                  <div>
+                    <div class="course-current-price">$9.99</div>
+                    <div class="course-price">$59.99</div>
+                  </div>
+                </div>
+                <div style="display: flex; gap: 10px">
+                  <div class="course-premium">Premium</div>
+                  <div>7 total hours -- Updated 2/2024</div>
+                </div>
+              </div>
+            </div>
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/50x50/380970_b5b4_42.jpg"
+                alt="Course Image"
+              />
+              <div class="course-info">
+                <div
+                  style="
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                  "
+                >
+                  <div class="course-title" style="width: 60%">
+                    Crypto Condensed: The Complete Guide To Bitcoin
+                  </div>
+                  <div class="course-rating">4.3 ★</div>
+                  <div>31,230</div>
+                  <div>
+                    <div class="course-current-price">$9.99</div>
+                    <div class="course-price">$59.99</div>
+                  </div>
+                </div>
+                <div style="display: flex; gap: 10px">
+                  <div class="course-premium">Premium</div>
+                  <div>7 total hours -- Updated 2/2024</div>
+                </div>
+              </div>
+            </div>
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/50x50/380970_b5b4_42.jpg"
+                alt="Course Image"
+              />
+              <div class="course-info">
+                <div
+                  style="
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                  "
+                >
+                  <div class="course-title" style="width: 60%">
+                    Crypto Condensed: The Complete Guide To Bitcoin
+                  </div>
+                  <div class="course-rating">4.3 ★</div>
+                  <div>31,230</div>
+                  <div>
+                    <div class="course-current-price">$9.99</div>
+                    <div class="course-price">$59.99</div>
+                  </div>
+                </div>
+                <div style="display: flex; gap: 10px">
+                  <div class="course-premium">Premium</div>
+                  <div>7 total hours -- Updated 2/2024</div>
+                </div>
+              </div>
+            </div>
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/50x50/380970_b5b4_42.jpg"
+                alt="Course Image"
+              />
+              <div class="course-info">
+                <div
+                  style="
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                  "
+                >
+                  <div class="course-title" style="width: 60%">
+                    Crypto Condensed: The Complete Guide To Bitcoin
+                  </div>
+                  <div class="course-rating">4.3 ★</div>
+                  <div>31,230</div>
+                  <div>
+                    <div class="course-current-price">$9.99</div>
+                    <div class="course-price">$59.99</div>
+                  </div>
+                </div>
+                <div style="display: flex; gap: 10px">
+                  <div class="course-premium">Premium</div>
+                  <div>7 total hours -- Updated 2/2024</div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="Instructor">
           <div class="title-h1">Instructor</div>
@@ -456,6 +606,188 @@
             />
             4.4 course rating &bull;50 ratings
           </div>
+          <div class="userInfo">
+            <div class="review">
+              <div style="display: flex; gap: 20px; margin-top: 20px">
+                <div>
+                  <img
+                    src="https://img-c.udemycdn.com/user/50x50/157746552_4e74.jpg"
+                    style="height: 50px; width: 50px; border-radius: 50px"
+                  />
+                </div>
+                <div>
+                  <span class="reviewer">Fabrizio G.</span>
+                  <div>
+                    <span class="stars">★★★★☆</span>
+                    <span class="review-date">2 years ago</span>
+                  </div>
+                </div>
+              </div>
+              <div class="review-text">
+                <p>
+                  Spiegazione elementare dell'uso di Coinbase. Probabilmente la
+                  cosa più fastidiosa è che tutte le risorse "scaricabili" fanno
+                  riferimento a pseudo bonus o referral cosa alquanto antipatica
+                  ritengo.
+                </p>
+              </div>
+              <div class="actions">
+                <a href="#">Helpful?</a>
+              </div>
+            </div>
+            <div class="review">
+              <div style="display: flex; gap: 20px; margin-top: 20px">
+                <div>
+                  <img
+                    src="https://img-c.udemycdn.com/user/50x50/157746552_4e74.jpg"
+                    style="height: 50px; width: 50px; border-radius: 50px"
+                  />
+                </div>
+                <div>
+                  <span class="reviewer">Fabrizio G.</span>
+                  <div>
+                    <span class="stars">★★★★☆</span>
+                    <span class="review-date">2 years ago</span>
+                  </div>
+                </div>
+              </div>
+              <div class="review-text">
+                <p>
+                  Spiegazione elementare dell'uso di Coinbase. Probabilmente la
+                  cosa più fastidiosa è che tutte le risorse "scaricabili" fanno
+                  riferimento a pseudo bonus o referral cosa alquanto antipatica
+                  ritengo.
+                </p>
+              </div>
+              <div class="actions">
+                <a href="#">Helpful?</a>
+              </div>
+            </div>
+            <div class="review">
+              <div style="display: flex; gap: 20px; margin-top: 20px">
+                <div>
+                  <img
+                    src="https://img-c.udemycdn.com/user/50x50/157746552_4e74.jpg"
+                    style="height: 50px; width: 50px; border-radius: 50px"
+                  />
+                </div>
+                <div>
+                  <span class="reviewer">Fabrizio G.</span>
+                  <div>
+                    <span class="stars">★★★★☆</span>
+                    <span class="review-date">2 years ago</span>
+                  </div>
+                </div>
+              </div>
+              <div class="review-text">
+                <p>
+                  Spiegazione elementare dell'uso di Coinbase. Probabilmente la
+                  cosa più fastidiosa è che tutte le risorse "scaricabili" fanno
+                  riferimento a pseudo bonus o referral cosa alquanto antipatica
+                  ritengo.
+                </p>
+              </div>
+              <div class="actions">
+                <a href="#">Helpful?</a>
+              </div>
+            </div>
+            <div class="review">
+              <div style="display: flex; gap: 20px; margin-top: 20px">
+                <div>
+                  <img
+                    src="https://img-c.udemycdn.com/user/50x50/157746552_4e74.jpg"
+                    style="height: 50px; width: 50px; border-radius: 50px"
+                  />
+                </div>
+                <div>
+                  <span class="reviewer">Fabrizio G.</span>
+                  <div>
+                    <span class="stars">★★★★☆</span>
+                    <span class="review-date">2 years ago</span>
+                  </div>
+                </div>
+              </div>
+              <div class="review-text">
+                <p>
+                  Spiegazione elementare dell'uso di Coinbase. Probabilmente la
+                  cosa più fastidiosa è che tutte le risorse "scaricabili" fanno
+                  riferimento a pseudo bonus o referral cosa alquanto antipatica
+                  ritengo.
+                </p>
+              </div>
+              <div class="actions">
+                <a href="#">Helpful?</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="aother">
+          <h2>
+            More Courses by
+            <a href="">ACI69 Trading | Crypto | Videoripetizioni</a>
+          </h2>
+          <div class="content">
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/240x135/2657286_2d98_4.jpg"
+                alt="Course Image"
+              />
+              <div class="course-details">
+                <div class="course-title">
+                  Amazon Power: How To Get Free Products Online?
+                </div>
+                <div class="course-meta">
+                  ACI69 Trading | Crypto | Videoripetizioni...
+                </div>
+                <div class="course-rating">3.1 ★★★★★ (18)</div>
+                <div class="course-lectures">3.5 total hours - 27 lectures</div>
+                <div class="course-level">- All Levels</div>
+                <div class="course-price">
+                  $9.99 <span class="strike-through">$49.99</span>
+                </div>
+              </div>
+            </div>
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/240x135/2657286_2d98_4.jpg"
+                alt="Course Image"
+              />
+              <div class="course-details">
+                <div class="course-title">
+                  Amazon Power: How To Get Free Products Online?
+                </div>
+                <div class="course-meta">
+                  ACI69 Trading | Crypto | Videoripetizioni...
+                </div>
+                <div class="course-rating">3.1 ★★★★★ (18)</div>
+                <div class="course-lectures">3.5 total hours - 27 lectures</div>
+                <div class="course-level">- All Levels</div>
+                <div class="course-price">
+                  $9.99 <span class="strike-through">$49.99</span>
+                </div>
+              </div>
+            </div>
+            <div class="course-item">
+              <img
+                src="https://img-c.udemycdn.com/course/240x135/2657286_2d98_4.jpg"
+                alt="Course Image"
+              />
+              <div class="course-details">
+                <div class="course-title">
+                  Amazon Power: How To Get Free Products Online?
+                </div>
+                <div class="course-meta">
+                  ACI69 Trading | Crypto | Videoripetizioni...
+                </div>
+                <div class="course-rating">3.1 ★★★★★ (18)</div>
+                <div class="course-lectures">3.5 total hours - 27 lectures</div>
+                <div class="course-level">- All Levels</div>
+                <div class="course-price">
+                  $9.99 <span class="strike-through">$49.99</span>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <div class="right"></div>
@@ -513,42 +845,30 @@ const sectionList = ref([
   { less: true },
 ]);
 
-const countdownDisplay = ref("Loading countdown...");
-// onBeforeMount(() => {
-//   let interval = null;
+console.log(window);
 
-//   const countdownEndTime = localStorage.getItem("countdownEndTime");
-//   const startTime = Date.now();
+// window.addEventListener("scroll", handleScroll);
 
-//   if (!countdownEndTime) {
-//     // 如果没有设置倒计时结束时间，则设置为21分钟45秒后
-//     countdownEndTime = Date.now() + 21 * 60 * 1000 + 45 * 1000;
-//     localStorage.setItem("countdownEndTime", countdownEndTime);
+onMounted(() => {
+  console.log("sadgasdfagdsgasdf");
+});
+
+const handleScroll = (e) => {
+  // 处理滚动事件
+  console.log(e);
+};
+
+// onMounted(() => {
+//   if (process.client) {
+//     window.addEventListener("scroll", handleScroll);
 //   }
-
-//   const updateCountdown = () => {
-//     const remainingTime = countdownEndTime - Date.now();
-//     if (remainingTime <= 0) {
-//       clearInterval(interval);
-//       countdownDisplay.value = "The event has ended.";
-//     } else {
-//       const minutes = Math.floor(remainingTime / 1000 / 60);
-//       const seconds = Math.floor((remainingTime / 1000) % 60);
-//       countdownDisplay.value = `Ends in ${minutes}m ${seconds}s.`;
-//     }
-//   };
-
-//   interval = setInterval(updateCountdown, 1000);
-//   updateCountdown(); // 初始化时立即更新倒计时
 // });
 
-// onUnmounted(() => {
-//   clearInterval(interval);
-//   // localStorage.setItem(
-//   //   "countdownEndTime",
-//   //   Date.now() + 21 * 60 * 1000 + 45 * 1000
-//   // );
-// });
+onUnmounted(() => {
+  if (process.client) {
+    window.removeEventListener("scroll", handleScroll);
+  }
+});
 </script>
 
 <style lang="scss">
@@ -562,9 +882,9 @@ body,
 
 .topBar {
   width: 100%;
-  background-color: bisque;
+  background-color: #5022c3;
   height: 80px;
-  color: #000;
+  color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -945,6 +1265,128 @@ body,
         font-size: 24px;
         font-weight: 800;
       }
+      .userInfo {
+        margin-top: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4%;
+        .review {
+          width: 48%;
+          border-top: 1px solid #eaeaea;
+          padding-bottom: 10px;
+          margin-bottom: 10px;
+        }
+        .review:last-child {
+          border-bottom: none;
+        }
+        .reviewer {
+          font-weight: bold;
+          margin-right: 5px;
+        }
+        .stars {
+          color: gold; /* 假设星星是金色的 */
+        }
+        .review-text {
+          margin-top: 5px;
+        }
+        .actions {
+          margin-top: 5px;
+          font-size: 0.9em;
+        }
+        .actions a {
+          color: #007bff;
+          text-decoration: none;
+        }
+      }
+    }
+    .lesson {
+      .course-list {
+        width: 100%;
+        margin: 0 auto;
+      }
+      .course-item {
+        display: flex;
+        align-items: center;
+        border-bottom: 1px solid #ccc;
+        padding: 10px 0;
+      }
+      .course-item img {
+        width: 50px;
+        height: 50px;
+        margin-right: 10px;
+      }
+      .course-info {
+        flex-grow: 1;
+      }
+      .course-title {
+        font-size: 18px;
+        font-weight: bold;
+      }
+      .course-premium {
+        background-color: #6200ea;
+        color: white;
+        padding: 2px 5px;
+        border-radius: 3px;
+        font-size: 12px;
+      }
+      .course-rating {
+        color: #f44336;
+      }
+      .course-price {
+        text-decoration: line-through;
+        margin-right: 10px;
+      }
+      .course-current-price {
+        color: #ff5722;
+      }
+    }
+    .aother {
+      .content {
+        display: flex;
+        justify-content: space-between;
+      }
+      .course-item {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 10px;
+        width: 32%;
+      }
+      .course-item img {
+        width: 150px;
+        height: auto;
+        margin-right: 20px;
+      }
+      .course-details {
+        flex-grow: 1;
+      }
+      .course-title {
+        font-size: 1.2em;
+        margin-bottom: 5px;
+      }
+      .course-meta {
+        color: #555;
+        margin-bottom: 5px;
+      }
+      .course-rating {
+        color: #333;
+        margin-right: 10px;
+      }
+      .course-lectures {
+        margin-right: 10px;
+      }
+      .course-level {
+        font-style: italic;
+      }
+      .course-price {
+        color: #e81c2e;
+        font-weight: bold;
+      }
+      .strike-through {
+        text-decoration: line-through;
+        color: #999;
+      }
     }
   }
   .right {
@@ -952,7 +1394,7 @@ body,
   }
 }
 .footBar {
-  margin-top: 200px;
+  margin-top: 50px;
   width: 100%;
   height: 400px;
   background-color: #000;
@@ -963,6 +1405,7 @@ body,
     font-weight: 900;
     height: 100px;
     line-height: 100px;
+    margin-bottom: 30px;
     border-bottom: 0.5px solid #3e4143;
     display: flex;
     justify-content: space-between;
